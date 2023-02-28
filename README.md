@@ -326,3 +326,8 @@ Executar teste (Manual)         |     0,5     | 28/02/2023     | 28/02/2023
 Implementar teste (Automação)   |      3      | 28/02/2023     | 28/02/2023
 Executar teste (Automação)      |     0,1     | 28/02/2023     | 28/02/2023
 Avaliar teste                   |     0,5     | 28/02/2023     | 28/02/2023
+
+## 5 - Orientações finais
+
+- Para executar o teste automatizado, basta acessar o GitHub Actions do projeto e executar por lá ou então realizar pull do projeto na sua máquina e executar localmente
+- As evidencias encontram-se na pasta videos do projeto
