@@ -8,7 +8,7 @@
 
    Data    | Versão |    Descrição   | Autor(a)
 -----------|--------|----------------|-----------------
-28/02/2021 |  1.0   | Release incial | xxxxxxxxxxxxxxxx
+28/02/2021 |  1.0   | Release incial | Bruno Carius
 
 
 ## 1 - Introdução
