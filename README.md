@@ -96,9 +96,9 @@ Também é possível apresentar aqui o programa que será testado.
 </table>
 <br/>
 
-1. Dado    |   que tenha um produto adicionado ao carrinho
-2. Quando  |   adiciono o cupom "FRETEGRATIS"
-3. Então   |   o usuário deve usufruir de frete grátis em sua compra
+1. Dado que tenha um produto adicionado ao carrinho
+2. Quando adiciono o cupom "FRETEGRATIS"
+3. Então o usuário deve usufruir de frete grátis em sua compra
 
 - Validar que usuário tenha 10% de desconto ao inserir cupom "10OFF" no carrinho
 
@@ -162,9 +162,9 @@ Também é possível apresentar aqui o programa que será testado.
 </table>
 <br/>
 
-1. Dado    |   que tenha um produto adicionado ao carrinho
-2. Quando  |   adiciono o cupom "10OFF"
-3. Então   |   o usuário deve usufruir de 10% de desconto no valor total da compra
+1. Dado que tenha um produto adicionado ao carrinho
+2. Quando adiciono o cupom "10OFF"
+3. Então o usuário deve usufruir de 10% de desconto no valor total da compra
 
 - Validar que usuário tenha 30 reais de desconto ao inserir cupom "30REAIS" no carrinho
 
@@ -228,9 +228,9 @@ Também é possível apresentar aqui o programa que será testado.
 </table>
 <br/>
 
-1. Dado    |   que tenha um produto adicionado ao carrinho
-2. Quando  |   adiciono o cupom "30REAIS"
-3. Então   |   o usuário deve usufruir de 30 reais de desconto no valor total da compra
+1. Dado que tenha um produto adicionado ao carrinho
+2. Quando adiciono o cupom "30REAIS"
+3. Então o usuário deve usufruir de 30 reais de desconto no valor total da compra
 
 - Validar que não seja possível usuário utilizar cupom vencido no carrinho
 
@@ -294,9 +294,9 @@ Também é possível apresentar aqui o programa que será testado.
 </table>
 <br/>
 
-1. Dado    |   que tenha um produto adicionado ao carrinho
-2. Quando  |   adiciono o cupom "CUPOMVENCIDO"
-3. Então   |   o carrinho deve exibir mensagem informando ao usuário que o cupom não é válido
+1. Dado que tenha um produto adicionado ao carrinho
+2. Quando adiciono o cupom "CUPOMVENCIDO"
+3. Então o carrinho deve exibir mensagem informando ao usuário que o cupom não é válido
 
 ## 3 - Recursos
 
@@ -323,6 +323,6 @@ Tipo de teste                   | Duração (h) | Data de início | Data de tér
 --------------------------------|-------------|----------------|-----------------
 Planejar teste                  |      1      | 28/02/2023     | 28/02/2023
 Executar teste (Manual)         |     0,5     | 28/02/2023     | 28/02/2023
-Implementar teste (Automação)   |     1,5     | 28/02/2023     | 28/02/2023
-Executar teste (Automação)      |             | 28/02/2023     | dd/mm/aaaa
-Avaliar teste                   |             | dd/mm/aaaa     | dd/mm/aaaa
+Implementar teste (Automação)   |      3      | 28/02/2023     | 28/02/2023
+Executar teste (Automação)      |     0,1     | 28/02/2023     | 28/02/2023
+Avaliar teste                   |     0,5     | 28/02/2023     | 28/02/2023
