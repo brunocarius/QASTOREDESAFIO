@@ -96,9 +96,9 @@ Também é possível apresentar aqui o programa que será testado.
 </table>
 <br/>
 
-Dado    |   que tenha um produto adicionado ao carrinho
-Quando  |   adiciono o cupom "FRETEGRATIS"
-Então   |   o usuário deve usufruir de frete grátis em sua compra
+1. Dado    |   que tenha um produto adicionado ao carrinho
+2. Quando  |   adiciono o cupom "FRETEGRATIS"
+3. Então   |   o usuário deve usufruir de frete grátis em sua compra
 
 - Validar que usuário tenha 10% de desconto ao inserir cupom "10OFF" no carrinho
 
@@ -162,9 +162,9 @@ Então   |   o usuário deve usufruir de frete grátis em sua compra
 </table>
 <br/>
 
-Dado    |   que tenha um produto adicionado ao carrinho
-Quando  |   adiciono o cupom "10OFF"
-Então   |   o usuário deve usufruir de 10% de desconto no valor total da compra
+1. Dado    |   que tenha um produto adicionado ao carrinho
+2. Quando  |   adiciono o cupom "10OFF"
+3. Então   |   o usuário deve usufruir de 10% de desconto no valor total da compra
 
 - Validar que usuário tenha 30 reais de desconto ao inserir cupom "30REAIS" no carrinho
 
@@ -228,9 +228,9 @@ Então   |   o usuário deve usufruir de 10% de desconto no valor total da compr
 </table>
 <br/>
 
-Dado    |   que tenha um produto adicionado ao carrinho
-Quando  |   adiciono o cupom "30REAIS"
-Então   |   o usuário deve usufruir de 30 reais de desconto no valor total da compra
+1. Dado    |   que tenha um produto adicionado ao carrinho
+2. Quando  |   adiciono o cupom "30REAIS"
+3. Então   |   o usuário deve usufruir de 30 reais de desconto no valor total da compra
 
 - Validar que não seja possível usuário utilizar cupom vencido no carrinho
 
@@ -294,9 +294,9 @@ Então   |   o usuário deve usufruir de 30 reais de desconto no valor total da 
 </table>
 <br/>
 
-Dado    |   que tenha um produto adicionado ao carrinho
-Quando  |   adiciono o cupom "CUPOMVENCIDO"
-Então   |   o carrinho deve exibir mensagem informando ao usuário que o cupom não é válido
+1. Dado    |   que tenha um produto adicionado ao carrinho
+2. Quando  |   adiciono o cupom "CUPOMVENCIDO"
+3. Então   |   o carrinho deve exibir mensagem informando ao usuário que o cupom não é válido
 
 ## 3 - Recursos
 
